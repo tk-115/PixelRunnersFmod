@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{ba1b2ce8-1915-45df-966e-914d098c2b1d}">
+		<property name="assetPath">
+			<value>Audio/SFX/Bonus/Sound_Bonus2_Pickup.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.5526530612244898</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b266cdf2-370d-4c64-9fa8-80010d8514c3}</destination>
+		</relationship>
+	</object>
+</objects>
